@@ -1,0 +1,23 @@
+{
+  "name": "hamradiointro",
+  "version": "1.0.0",
+  "description": "Presentation: Introduction to Ham Radio",
+  "main": "index.js",
+  "scripts": {
+    "presentation": "reveal-md slides.md",
+    "generate": "reveal-md slides.md --static docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinmurphy/hamradiointro.git"
+  },
+  "author": "Martin Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinmurphy/hamradiointro/issues"
+  },
+  "homepage": "https://github.com/martinmurphy/hamradiointro#readme",
+  "devDependencies": {
+    "reveal-md": "^0.4.2"
+  }
+}
