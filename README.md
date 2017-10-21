@@ -1,6 +1,6 @@
 # Presentation: Introduction to Ham Radio
 
-This presentation uses reveal-md
+[Presentation](https://martinmurphy.github.io/hamradiointro)
 
 # Usage
 
@@ -16,3 +16,8 @@ or to generate a static website in the docs subdirectory
 ```
 npm run generate
 ```
+
+This presentation uses [reveal-md](https://github.com/webpro/reveal-md)
+Built and deployed to GitHUb Pages using Travis CI [![Build Status](https://travis-ci.org/martinmurphy/hamradiointro.svg?branch=master)](https://travis-ci.org/martinmurphy/hamradiointro)
+
+
