@@ -6,54 +6,140 @@ theme: solarized
 revealOptions:
     transition: 'fade'
 ---
-# Ham Radio
+# Introduction to Ham Radio
+
+* Martin Murphy
+* EI2HIB
+
+<!--s-->
+
+## Overview
+
+* Ham Radio
+* What is Radio?
+* Regulations
+* Organisations
+* Areas of Interest
+
+Note: This is a brief overview of Amateur Radio - a little bit about radio itself and the fact that it's regulated, but mostly about the various different areas of interest.
+
+<!--s-->
+
+## Ham Radio
 
 * Since the invention of radio
 * Also known as Amateur Radio
   * non-commercial
   * non-encrypted
-* Need a licence - ComReg
 * Must pass an exam
   * Harmonised Amateur Radio Examination Certificate
+* Need a licence - ComReg
 
-<!--v-->
-
-# Band Plans
-
-* Frequency/Wavelength
-* 
+Note: Amateur Radio has been in existence since the invention of radio.  Also called Ham Radio. Only available for experimentation, communications and self training. There is an exam covering radio, electronics, and regulations.  Once you get a licence you get a call signm e.g. EI2HIB, E[IJ]* == Ireland, F* == France
 
 <!--s-->
 
-# Organisations
+## What is Radio?
+
+* Electro-Magnetic Radation
+* Line-of-sight
+  * Repeaters
+  * HF - Ionosphere
+* Frequency/Wavelength
+* Antennas
+  * Piece of Wire
+  * Usually multiples of 1/4 wavelengths
+
+<!--v-->
+
+## Frequency/Wavelength
+
+![wave image](wave.jpg)
+
+Note:
+* Speed of light ~ 300,000 m/s
+* Frequency = Speed of light / wavelength
+
+<!--v-->
+
+## What is Radio?
+
+* Electro-Magnetic Radation
+* Line-of-sight
+  * Repeaters
+  * HF - Ionosphere
+* Frequency/Wavelength
+* Antennas
+  * Piece of Wire
+  * Usually multiples of 1/4 wavelengths
+
+<!--v-->
+
+## Regulations
+
+* Frequency/Wavelength
+* [ComReg](https://www.comreg.ie/industry/radio-spectrum/licensing/search-licence-type/radio-amateurs-2/)
+* [Band Plans - IARU R1](https://www.iaru-r1.org/index.php/spectrum-and-band-plans)
+
+Note: Amateur Radio Service is allocated various portions of the radio spectrum, these can vary by region and jurisdiction
+
+<!--s-->
+
+## Organisations
 
 * International Amateur Radio Union
 * International agreements about operating
 * National - Irish Radio Transmitters Society
+* ComReg - Commission for Communications Regulation
 
 Note: IARU, IRTS, ARRL, RSGB, Experimenters, HAREC
 
 <!--s-->
 
-# Areas of Interest
+## Areas of Interest
 
 * Building
-  * Transceivers
-  * Antennas
-  * Power meters
-  * RF Amplifiers
 * Operating
-  * Portable
-    * SOTA
-    * DXpeditions
-  * Competitions
-  * "Ragchewing"
-  * Emergency Communiations
-  * Satellites
-  * Moonbounce
-  * HF, VHF, UHF, Microwave
-  * ATV
-  * Digital Modes
+
+<!--v-->
+
+## Building
+
+* Transceivers
+* Antennas
+* Power meters
+* RF Amplifiers
+
+<!--v-->
+
+## Operating 1/2
+
+* Portable
+  * SOTA
+  * DXpeditions
+* Competitions
+* "Ragchewing"
+
+<!--v-->
+
+## Operating 2/2
+
+* Emergency Communiations
+* Satellites
+* Moonbounce
+* HF, VHF, UHF, Microwave
+* ATV
+* Digital Modes
+* Web SDR
+
+<!--v-->
+
+## Web SDR
+
+* [RAF Hack Green](http://hackgreensdr.org:8901)
+* [K3FEF - Milford, Pennsylvania](http://k3fef.com:8901)
+* [KFS WebSDR HF - San Francisco, CA](http://69.27.184.62:8901/)
+* [websdr.org](http://websdr.org)
 
 <!--s-->
 
@@ -63,8 +149,12 @@ Note: IARU, IRTS, ARRL, RSGB, Experimenters, HAREC
 
 <!--s-->
 
-# References
+## References
 * [IRTS](http://www.irts.ie)
 * [IARU](http://www.iaru.org)
-
-
+* [AREN](http://www.aren.ie)
+* [websdr.org](http://websdr.org)
+* [ComReg - Radio Amateurs](https://www.comreg.ie/industry/radio-spectrum/licensing/search-licence-type/radio-amateurs-2/)
+* [IARU R1 - Band plans](https://www.iaru-r1.org/index.php/spectrum-and-band-plans)
+* [websdr.org](http://websdr.org)
+* [This Presentation](http://martinmurphy.github.io/hamradiointro)
