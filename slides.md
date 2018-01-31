@@ -1,25 +1,70 @@
 ---
-title: Ham Radio
+title: What is Ham Radio?
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: solarized
 revealOptions:
     transition: 'fade'
 ---
-# Slide 1
+# Ham Radio
 
-This is slide one.
-
-Note: This is a speaker note
-
-<!--s-->
-
-# Slide 2
-
-This is slide two
+* Since the invention of radio
+* Also known as Amateur Radio
+  * non-commercial
+  * non-encrypted
+* Need a licence - ComReg
+* Must pass an exam
+  * Harmonised Amateur Radio Examination Certificate
 
 <!--v-->
 
-# Bar
+# Band Plans
 
-The end!
+* Frequency/Wavelength
+* 
+
+<!--s-->
+
+# Organisations
+
+* International Amateur Radio Union
+* International agreements about operating
+* National - Irish Radio Transmitters Society
+
+Note: IARU, IRTS, ARRL, RSGB, Experimenters, HAREC
+
+<!--s-->
+
+# Areas of Interest
+
+* Building
+  * Transceivers
+  * Antennas
+  * Power meters
+  * RF Amplifiers
+* Operating
+  * Portable
+    * SOTA
+    * DXpeditions
+  * Competitions
+  * "Ragchewing"
+  * Emergency Communiations
+  * Satellites
+  * Moonbounce
+  * HF, VHF, UHF, Microwave
+  * ATV
+  * Digital Modes
+
+<!--s-->
+
+# Questions?
+
+?
+
+<!--s-->
+
+# References
+* [IRTS](http://www.irts.ie)
+* [IARU](http://www.iaru.org)
+
+
