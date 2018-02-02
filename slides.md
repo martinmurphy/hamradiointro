@@ -6,10 +6,9 @@ theme: solarized
 revealOptions:
     transition: 'fade'
 ---
-# Introduction to Ham Radio
+## Introduction to Ham Radio
 
-* Martin Murphy
-* EI2HIB
+* Martin Murphy - EI2HIB
 
 <!--s-->
 
@@ -27,10 +26,10 @@ Note: This is a brief overview of Amateur Radio - a little bit about radio itsel
 
 ## Ham Radio
 
-* Since the invention of radio
 * Also known as Amateur Radio
   * non-commercial
   * non-encrypted
+* Since the invention of radio
 * Must pass an exam
   * Harmonised Amateur Radio Examination Certificate
 * Need a licence - ComReg
@@ -50,6 +49,8 @@ Note: Amateur Radio has been in existence since the invention of radio.  Also ca
   * Piece of Wire
   * Usually multiples of 1/4 wavelengths
 
+Note: transmitter changes the voltage on the wire, which causes an EM field to radiate from the antenna.  Line of sight means that the waves can be blocked by buildings, mountains, curvature of the earth
+
 <!--v-->
 
 ## Frequency/Wavelength
@@ -57,7 +58,7 @@ Note: Amateur Radio has been in existence since the invention of radio.  Also ca
 ![wave image](wave.jpg)
 
 Note:
-* Speed of light ~ 300,000 m/s
+* Speed of light ~ 300,000,000 m/s
 * Frequency = Speed of light / wavelength
 
 <!--v-->
@@ -112,7 +113,7 @@ Note: IARU, IRTS, ARRL, RSGB, Experimenters, HAREC
 
 <!--v-->
 
-## Operating 1/2
+## Operating 1/3
 
 * Portable
   * SOTA
@@ -122,7 +123,14 @@ Note: IARU, IRTS, ARRL, RSGB, Experimenters, HAREC
 
 <!--v-->
 
-## Operating 2/2
+## Operating 2/3
+
+![QSO Map](map.png)
+
+Note: Example of locations
+<!--v-->
+
+## Operating 3/3
 
 * Emergency Communiations
 * Satellites
