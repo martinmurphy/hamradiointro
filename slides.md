@@ -49,7 +49,7 @@ Note: Amateur Radio has been in existence since the invention of radio.  Also ca
   * Piece of Wire
   * Usually multiples of 1/4 wavelengths
 
-Note: transmitter changes the voltage on the wire, which causes an EM field to radiate from the antenna.  Line of sight means that the waves can be blocked by buildings, mountains, curvature of the earth
+Note: transmitter changes the voltage on the wire, which causes an EM field to radiate from the antenna.  Line of sight means that the waves can be blocked by buildings, mountains, curvature of the earth, as a rule of thumb, the longer the wavelength the longer the antenna
 
 <!--v-->
 
@@ -108,18 +108,23 @@ Note: IARU, IRTS, ARRL, RSGB, Experimenters, HAREC
 
 * Transceivers
 * Antennas
-* Power meters
 * RF Amplifiers
+* Test Equipment
+
+Note: Transceiver == tramsmitter/receiver, kits available for lots of things, low power, antennas - wire/beams/loops/spiderwebs
 
 <!--v-->
 
 ## Operating 1/3
 
+* Voice/CW/Digital
 * Portable
   * SOTA
   * DXpeditions
 * Competitions
 * "Ragchewing"
+
+Note: CW follows on from telegraph, essential for marine and transatlantic, Marconi etc. Also, CASHOTA, IOTA, JOTA. DX comes from distance
 
 <!--v-->
 
@@ -139,6 +144,8 @@ Note: Example of locations
 * ATV
 * Digital Modes
 * Web SDR
+
+Note: satellite tracking and doppler compensation, mention meteor scatter, using former radio telescopes to bounce images off the moon, aircraft scatter
 
 <!--v-->
 
